@@ -8,6 +8,11 @@
 ## Мат. Анализ (29 ноября)
 ### КР - Производные ❗
 
+### Другие задания
+![image](https://user-images.githubusercontent.com/70198995/203549329-64012578-d554-45b8-9c8b-348e972850e6.png)
+![image](https://user-images.githubusercontent.com/70198995/203549339-4937427f-884c-43b8-9ef2-b942a62dd994.png)
+![image](https://user-images.githubusercontent.com/70198995/203549389-0cdcff7b-b3f9-4013-bad6-f769be530672.png)
+
 ## Физика (30 ноября)
 ### ⚗️ Лабы - последняя дата сдачи!
 
