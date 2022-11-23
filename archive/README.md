@@ -4,7 +4,7 @@
 - 11.1 - 5, 7
 
 ## Алгебра (22 ноября)
-### КР - Векторы ❗
+### КР - Векторы ❗ (взять доп. листочки)
 ![image](https://user-images.githubusercontent.com/70198995/201990644-647033aa-323f-4a69-9145-c1da577a858d.png)
 ![image](https://user-images.githubusercontent.com/70198995/201990269-ff450ba7-67b0-4079-adef-d5cf9526aaf1.png)
 ![image](https://user-images.githubusercontent.com/70198995/201985031-a1d7b8f5-a876-4c28-a3f1-7417cb87ab42.png)
