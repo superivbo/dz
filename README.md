@@ -4,7 +4,8 @@
 
 ### 1A
 ![1A](https://user-images.githubusercontent.com/70198995/203786611-6a321801-2a75-40ee-ac75-c3ce1f11a390.png)
-![image](https://user-images.githubusercontent.com/70198995/203789520-bc04be85-67e2-411c-99f1-a616401ea896.png)
+![факты](https://user-images.githubusercontent.com/70198995/203789520-bc04be85-67e2-411c-99f1-a616401ea896.png)
+![вопросы](https://user-images.githubusercontent.com/70198995/203790897-b9a2a4a7-16f1-442e-a138-2601f6476a06.png)
 
 
 
