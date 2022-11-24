@@ -3,6 +3,8 @@
 - Диктант по всем юнитам (1, 2, 3), по словам которые были до текстов 
 
 ### 3B
+![1A](https://user-images.githubusercontent.com/70198995/203786611-6a321801-2a75-40ee-ac75-c3ce1f11a390.png)
+
 ![image](https://user-images.githubusercontent.com/70198995/202683360-885e2f89-3c78-42ec-97eb-1493abb8d0c7.png)
 
 ## Мат. Анализ (29 ноября)
