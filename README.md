@@ -4,21 +4,9 @@
 
 ### 1A
 ![1A](https://user-images.githubusercontent.com/70198995/203786611-6a321801-2a75-40ee-ac75-c3ce1f11a390.png)
-
-- Russia’s higher education system started with the foundation of the universities in Moscow and St. Petersburg in the middle of the 18th century
-- Система высшего образования в России началась с основания университетов в Москве и Санкт-Петербурге в середине XVIII века
-
-- The pursuit of higher education was and still is considered to be very prestigious
-- Получение высшего образования считалось и до сих пор считается очень престижным
+![image](https://user-images.githubusercontent.com/70198995/203789520-bc04be85-67e2-411c-99f1-a616401ea896.png)
 
 
-The right to education is stated in the constitution of the Russian Federation (Право на образование закреплено в Конституции Российской Федерации)
-Education in Russia is compulsory up to the 9th form inclusive (Образование в России является обязательным до 9 класса включительно.)
-Institutes or universities offer 5-years programme of academic subjects for undergraduates in a variety of fields (Институты или университеты предлагают 5-летнюю программу учебных предметов для студентов старших курсов по различным специальностям)
-The system of education in Russia began to change over the past years
-The Bachelor’s degree is awarded after defending a Diploma project
-The Master’s degree is awarded after completion of two years’ full-time study
-Nowadays the universities are still in the process of these changes
 
 ### 3B
 ![image](https://user-images.githubusercontent.com/70198995/202683360-885e2f89-3c78-42ec-97eb-1493abb8d0c7.png)
