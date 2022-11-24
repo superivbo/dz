@@ -3,7 +3,6 @@
 - Диктант по всем юнитам (1, 2, 3), по словам которые были до текстов 
 
 ### 1A
-![1A](https://user-images.githubusercontent.com/70198995/203786611-6a321801-2a75-40ee-ac75-c3ce1f11a390.png)
 ![факты](https://user-images.githubusercontent.com/70198995/203789520-bc04be85-67e2-411c-99f1-a616401ea896.png)
 
 ### 1C
