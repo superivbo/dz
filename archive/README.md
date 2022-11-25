@@ -1,4 +1,21 @@
 # Архив
+## Английский (25 ноября)
+- 3 топик (устный текст)
+- Диктант по всем юнитам (1, 2, 3), по словам которые были до текстов 
+
+### 1A
+![факты](https://user-images.githubusercontent.com/70198995/203789520-bc04be85-67e2-411c-99f1-a616401ea896.png)
+
+### 1C
+![вопросы](https://user-images.githubusercontent.com/70198995/203790897-b9a2a4a7-16f1-442e-a138-2601f6476a06.png)
+
+### Unit 2
+![image](https://user-images.githubusercontent.com/70198995/203793234-21df1990-b1af-45d6-b936-e696c6cada7f.png)
+
+
+### 3B
+![image](https://user-images.githubusercontent.com/70198995/202683360-885e2f89-3c78-42ec-97eb-1493abb8d0c7.png)
+
 ## Физика (23 ноября) доделать
 - 9.18 - 22, 27
 - 11.1 - 5, 7
