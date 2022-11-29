@@ -21,6 +21,7 @@
 
 ### На каком расстоянии от поверхности Земли ускорение свободного падения равно 1 м/с2?
 ![image](https://user-images.githubusercontent.com/70198995/204637192-95cc1a69-8f3b-4ba3-bb55-0960d04a53fb.png)
+
 ![image](https://user-images.githubusercontent.com/70198995/204637212-73ceac69-c825-4c09-b781-3fd1862c84c3.png)
 
 ### Значение g на Луне
