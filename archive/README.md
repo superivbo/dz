@@ -62,3 +62,9 @@
 Типовой расчет 2.10 (1-3 пункт) свой вариант
 
 ![image](https://user-images.githubusercontent.com/70198995/201988098-697c6e0a-bc6a-444e-8681-9e4873f21382.png)
+
+## Мат. Анализ (1 КР)
+![1](https://user-images.githubusercontent.com/70198995/205690511-1d258215-5cf9-4c16-ba65-2475e636414b.png)
+![2](https://user-images.githubusercontent.com/70198995/205690516-5a05df4c-89e1-4cde-ac79-a673e72cf0be.png)
+
+![3](https://user-images.githubusercontent.com/70198995/205690496-3668f7c5-c34e-40c9-9c2f-96d4a46920f9.png)
