@@ -14,3 +14,5 @@
 ![image](https://user-images.githubusercontent.com/70198995/208507516-ced18eeb-5c7f-42d2-8657-f2d0d8b65c85.png)
 
 ![image](https://user-images.githubusercontent.com/70198995/208507527-04e6d27b-2f0a-453f-afb0-f2a97ea8a604.png)
+
+На след. Занятии будем разбирать вопросы по экзамену, если будет образец экзамена то будем разбирать, можно будет собеседование на паре пройти
